@@ -49,12 +49,12 @@ Here's an example of how to integrate the SVG background into your HTML file:
 
 ```
     
-## 🔗 Links
+<!-- ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](http://www.linkedin.com/in/fateme-kharazmi)/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](http://www.linkedin.com/in/fateme-kharazmi))
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-0A66C2?style=for-the-badge&logo=stackoverflow&logoColor=white)]([https://www.stackoverflow.com](https://stackoverflow.com/users/15953197/fanid)/)
 [![gmail](https://img.shields.io/badge/gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)]([https://www.gmail.com](devfaanid@gmail.com)/)
-
+ -->
 
 
 ## License
