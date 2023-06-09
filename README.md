@@ -4,7 +4,7 @@ Get a free SVG background featuring a sky with blinking stars during twilight.
 
 ## Description
 
-This project provides a free SVG background that showcases a beautiful sky with blinking stars during twilight. It is created using HTML, CSS, and JavaScript.
+This project provides a free SVG background that showcases a beautiful sky with blinking stars during twilight. It's created using HTML, CSS, and JavaScript.
 
 ## Demo
 
